@@ -1,4 +1,4 @@
-# evrythng-cli-plugin-util
+# evrythng-cli-plugin-utils
 
 Plugin for [`evrythng-cli`](https://github.com/evrythng/evrythng-cli) that adds
 useful functions for working with and testing EVRYTHNG resources.
