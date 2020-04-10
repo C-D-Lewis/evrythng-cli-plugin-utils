@@ -1,6 +1,6 @@
 {
   "name": "evrythng-cli-plugin-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plugin for the EVRYTHNG CLI that add useful utility functions.",
   "main": "index.js",
   "author": "Chris Lewis",
